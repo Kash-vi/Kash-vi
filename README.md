@@ -1,10 +1,15 @@
 # 💫 About Me:
 
 🔭 I’m passionate about **computational biology**, **machine learning**, and **applied software development**, with a focus on solving biology-driven problems using data and code.
+
 💡 I enjoy working on complex, real-world problems, including **analysing biological datasets**, **building ML and DL models**, and writing clean, efficient, research-oriented code.
+
 🌱 Currently exploring **computational biology**, **bioinformatics**, and modern AI and ML frameworks.
+
 🤝 Open to collaborating on research projects, open-source contributions, and interdisciplinary engineering work.
+
 📫 How to reach me: **kashvi.iitj@gmail.com**
+
 🎯 Goal: To build **impactful solutions** that combine biological insight, machine learning, and strong software engineering practices.
 
 ---
