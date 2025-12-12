@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-🔭 I’m passionate about **algorithms, mathematical modeling, and system design**, with interests spanning both **Quantitative Finance** and **Software Engineering**.  
-💡 I enjoy solving **complex problems** — from building efficient trading strategies and data-driven models, to developing scalable software systems and high-performance applications.  
-🌱 Currently exploring **computational finance, distributed systems, and AI/ML frameworks**.  
-🤝 Open to collaborating on **research, open-source, and innovative engineering projects**.  
-📫 How to reach me: **kashvi.iitj@gmail.com**  
-🎯 Goal: To craft impactful solutions that unite **quantitative analysis, data science, and robust software engineering**.
+🔭 I’m passionate about **computational biology**, **machine learning**, and **applied software development**, with a focus on solving biology-driven problems using data and code.
+💡 I enjoy working on complex, real-world problems, including **analysing biological datasets**, **building ML and DL models**, and writing clean, efficient, research-oriented code.
+🌱 Currently exploring **computational biology**, **bioinformatics**, and modern AI and ML frameworks.
+🤝 Open to collaborating on research projects, open-source contributions, and interdisciplinary engineering work.
+📫 How to reach me: **kashvi.iitj@gmail.com**
+🎯 Goal: To build **impactful solutions** that combine biological insight, machine learning, and strong software engineering practices.
 
 ---
 
@@ -30,11 +30,3 @@
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=sharmajii7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sharmajii7&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmajii7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
